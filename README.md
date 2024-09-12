@@ -31,7 +31,7 @@
     <td style="color: #003366;">Excel, SPSS</td>
   </tr>
   <tr>
-    <th style="background-color: #cceeff; color: #003366;">Other Software</th>
+    <th style="background-color: #cceeff; color: #003366;">Other Softwares</th>
     <td style="color: #003366;">AWS, Git</td>
   </tr>
 </table>
