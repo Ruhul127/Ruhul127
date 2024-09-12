@@ -43,7 +43,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ruhul127&show_icons=true&theme=light&hide_border=true" alt="Ruhul's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhul127&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
