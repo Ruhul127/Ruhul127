@@ -8,7 +8,7 @@
 
 ### About Me
 <p>
-  Hi! I'm Ruhul Amin, a computer science graduate who is passionate about building software that solves real-world problems. My interest lies in web development, full-stack technologies, and constantly learning new languages and frameworks. I'm excited to begin my professional journey as a software developer and contribute to meaningful projects. You can reach me on <a href="https://www.linkedin.com/in/ruhul-amin-987211213" target="_blank">LinkedIn</a>.
+  Hi! I'm Ruhul Amin, a computer science graduate who is passionate about building software that solves real-world problems. My interest lies in software development, full-stack technologies, and constantly learning new languages and frameworks. I'm excited to begin my professional journey as a software developer and contribute to meaningful projects. You can reach me on <a href="https://www.linkedin.com/in/ruhul-amin-987211213" target="_blank">LinkedIn</a>.
 </p>
 
 ---
