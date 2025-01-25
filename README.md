@@ -76,4 +76,9 @@
   <br/>
 </p>
 
+### GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruhul127&bg_color=ffffff&color=003366&line=blue&point=003366&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
 ---
