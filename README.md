@@ -76,9 +76,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhul127&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </p>
 
-### GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruhul127&bg_color=181818&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
 ---
