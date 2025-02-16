@@ -6,7 +6,7 @@
 </p>
 
 ### About Me
-<p>
+<p style="color: white;">
   Hi! I'm Ruhul Amin, a computer science graduate passionate about creating impactful software solutions. My interests include software development, full-stack technologies, and exploring emerging trends in AI and cloud computing. I'm currently honing my skills and contributing to meaningful projects as I embark on my professional journey.
 </p>
 
@@ -33,52 +33,52 @@
 ---
 
 ### Skills Overview
-<table align="center" style="border-collapse: collapse; width: 100%; text-align: left;">
+<table align="center" style="border-collapse: collapse; width: 100%; text-align: left; color: white; background-color: #181818;">
   <thead>
-    <tr style="background-color: #cceeff; color: #003366;">
-      <th style="padding: 10px; border: 1px solid #003366;">Category</th>
-      <th style="padding: 10px; border: 1px solid #003366;">Skills</th>
+    <tr style="background-color: #333333; color: white;">
+      <th style="padding: 10px; border: 1px solid #555;">Category</th>
+      <th style="padding: 10px; border: 1px solid #555;">Skills</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 10px; border: 1px solid #003366; background-color: #e6f7ff;">Programming Languages</td>
-      <td style="padding: 10px; border: 1px solid #003366;">Python, Java, C++, PHP, HTML/CSS/JS</td>
+      <td style="padding: 10px; border: 1px solid #555; background-color: #222;">Programming Languages</td>
+      <td style="padding: 10px; border: 1px solid #555;">Python, Java, C++, PHP, HTML/CSS/JS</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #003366; background-color: #f0f8ff;">Frameworks and IDEs</td>
-      <td style="padding: 10px; border: 1px solid #003366;">React, Laravel, Flask, VS Code</td>
+      <td style="padding: 10px; border: 1px solid #555; background-color: #333;">Frameworks and IDEs</td>
+      <td style="padding: 10px; border: 1px solid #555;">React, Laravel, Flask, VS Code</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #003366; background-color: #e6f7ff;">Database Management</td>
-      <td style="padding: 10px; border: 1px solid #003366;">MySQL, PHPMyAdmin</td>
+      <td style="padding: 10px; border: 1px solid #555; background-color: #222;">Database Management</td>
+      <td style="padding: 10px; border: 1px solid #555;">MySQL, PHPMyAdmin</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #003366; background-color: #f0f8ff;">Data Analysis Tools</td>
-      <td style="padding: 10px; border: 1px solid #003366;">Excel, SPSS</td>
+      <td style="padding: 10px; border: 1px solid #555; background-color: #333;">Data Analysis Tools</td>
+      <td style="padding: 10px; border: 1px solid #555;">Excel, SPSS</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #003366; background-color: #e6f7ff;">Cloud and DevOps</td>
-      <td style="padding: 10px; border: 1px solid #003366;">AWS, Git</td>
+      <td style="padding: 10px; border: 1px solid #555; background-color: #222;">Cloud and DevOps</td>
+      <td style="padding: 10px; border: 1px solid #555;">AWS, Git</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #003366; background-color: #f0f8ff;">Other Skills</td>
-      <td style="padding: 10px; border: 1px solid #003366;">Agile Development</td>
+      <td style="padding: 10px; border: 1px solid #555; background-color: #333;">Other Skills</td>
+      <td style="padding: 10px; border: 1px solid #555;">Agile Development</td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-### GitHub Stats
+### GitHub Stats & Most Used Technologies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruhul127&show_icons=true&theme=light&hide_border=true" alt="Ruhul's GitHub Stats" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruhul127&show_icons=true&theme=dark&hide_border=true" alt="Ruhul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhul127&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ### GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruhul127&bg_color=ffffff&color=003366&line=blue&point=003366&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruhul127&bg_color=181818&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
