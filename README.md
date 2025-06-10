@@ -43,7 +43,7 @@
   <tbody>
     <tr>
       <td style="padding: 10px; border: 1px solid #555; background-color: #222;">Programming Languages</td>
-      <td style="padding: 10px; border: 1px solid #555;">Python, Java, C++, PHP, HTML/CSS/JS</td>
+      <td style="padding: 10px; border: 1px solid #555;">Python, Java, C++, PHP, HTML/CSS/JS, Node.js</td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #555; background-color: #333;">Frameworks and IDEs</td>
@@ -59,11 +59,11 @@
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #555; background-color: #222;">Cloud and DevOps</td>
-      <td style="padding: 10px; border: 1px solid #555;">AWS, Git</td>
+      <td style="padding: 10px; border: 1px solid #555;">AWS, Git, Docker</td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #555; background-color: #333;">Other Skills</td>
-      <td style="padding: 10px; border: 1px solid #555;">Agile Development</td>
+      <td style="padding: 10px; border: 1px solid #555;">Agile Development, API Integration</td>
     </tr>
   </tbody>
 </table>
