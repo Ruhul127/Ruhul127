@@ -56,9 +56,6 @@ Other Skills
 ---
 
 ### GitHub Stats & Most Used Technologies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruhul127&show_icons=true&theme=dark&hide_border=true" alt="Ruhul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhul127&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-</p>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ruhul127&show_icons=true&theme=dark&hide_border=true" alt="Ruhul's GitHub Stats" width="33%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhul127&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="33%"/> <img src="https://streak-stats.demolab.com?user=Ruhul127&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="33%"/> </div>
 
----
+
